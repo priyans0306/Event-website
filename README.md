@@ -221,8 +221,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **Priyanshu Gurdekar**
-- GitHub: [@PriyanshuGurdekar01](https://github.com/PriyanshuGurdekar01)
-- Email: priyanshugurdekar223@gmail.com
+- GitHub: [@PriyanshuYadav](https://github.com/priyans0306)
+- Email: ypriyanshu795@gmail.com
 
 ## 🙏 Acknowledgments
 
