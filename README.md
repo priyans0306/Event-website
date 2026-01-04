@@ -220,7 +220,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**Priyanshu Gurdekar**
+**Priyanshu Yadav**
 - GitHub: [@PriyanshuYadav](https://github.com/priyans0306)
 - Email: ypriyanshu795@gmail.com
 
